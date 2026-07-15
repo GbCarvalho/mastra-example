@@ -66,6 +66,10 @@ npm run dev            # Opens Mastra Studio at http://localhost:4111
 npm test
 ```
 
+## Inspiration
+
+This project was inspired by the AI-augmented job search workflow in [ai-job-search](https://github.com/MadsLorentzen/ai-job-search), which demonstrated structured fit-evaluation as part of an application pipeline.
+
 ## Deploy
 
 ```bash
